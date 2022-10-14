@@ -18,7 +18,7 @@ UUID = "890f636a-2608-4200-b05b-ac65fd4e11df"
 #     bot_token = token.read()
 #     bot_token = str(bot_token)
 
-bot_token = "5662958094:AAFTQWRLmlzjjFFFuZhQuPZhZI4R_0HVxCk"
+bot_token = "5662958094:AAEq3ddcqaPiAMi_6G9yqJKT5vW60CwtyfQ"
 updater = Updater(bot_token, use_context=True)
 
 
