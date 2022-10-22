@@ -60,7 +60,7 @@ IP_address = r.text
 #     bot_token = token.read()
 #     bot_token = str(bot_token)
 
-bot_token = "5662958094:AAEq3ddcqaPiAMi_6G9yqJKT5vW60CwtyfQ"
+bot_token = "5456149643:AAEbP7CJeu0_YHwhW7-dgO2oaf59_qqu-no"
 updater = Updater(bot_token, use_context=True)
 
 
